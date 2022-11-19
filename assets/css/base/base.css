@@ -1,0 +1,16 @@
+@import url("./reset.css");
+
+body {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    194deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(37, 49, 109, 1) 47%,
+    rgba(244, 244, 244, 1) 100%
+  );
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100%;
+  font-family: "Roboto", sans-serif;
+}
